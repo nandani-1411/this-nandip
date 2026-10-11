@@ -1,0 +1,4 @@
+AI-generated project source. Code and tests have NOT been executed.
+Human approval does not verify runtime correctness. This download does not publish to GitHub.
+Review cycle: 2; rounds: 1
+Unresolved findings in latest review: 0
